@@ -1,0 +1,21 @@
+{
+  "name": "keyboard-pagination",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^5.8.5",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "jshint": "^2.8.0",
+    "jshint-stylish": "^2.0.1"
+  }
+}
