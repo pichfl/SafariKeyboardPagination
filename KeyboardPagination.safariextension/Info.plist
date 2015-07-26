@@ -27,7 +27,7 @@
 		</dict>
 	</dict>
 	<key>Description</key>
-	<string>Keyboard shortcuts for sites with paginated content</string>
+	<string>An extension for adding keyboard support to websites with pagination links.</string>
 	<key>DeveloperIdentifier</key>
 	<string>6WAYJC7M67</string>
 	<key>ExtensionInfoDictionaryVersion</key>
@@ -42,5 +42,7 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Website</key>
+	<string>http://pichfl.github.io/SafariKeyboardPagination/</string>
 </dict>
 </plist>
